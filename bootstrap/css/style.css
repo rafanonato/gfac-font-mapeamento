@@ -8,7 +8,53 @@
 
 .bar_menu{
   background-color: #43545c;
-  padding: .5%;
+  padding: .1%;
+  padding-left: 1%;
   margin-bottom: .5%;
   color: #fff;
+}
+
+.space{
+  margin-bottom: 3%;
+}
+
+.header{
+  padding: 1%;
+}
+
+.footer{
+  position:relative;
+  bottom:0px;
+  width:100%;
+}
+
+.icon{
+  font-size: 20px;
+  color: #fff;
+}
+
+.menu{
+  font-size: 18px;
+  color: #fff;
+}
+
+.spaceBtn{
+  margin-top: 5%;
+  margin-bottom: 5%;
+
+}
+
+.alert-heading{
+  padding-top: 0.5%;
+}
+
+.titleBox{
+  background-color: #dcdcdc;
+  padding: 2%;
+  text-align: center;
+}
+
+.titleSala{
+  font-size: 35px;
+  color: #888;
 }
